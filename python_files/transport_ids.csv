@@ -1,0 +1,6 @@
+﻿route_id,route_type
+0,Train
+1,Tram
+2,Bus
+3,Vline
+4,Night Bus

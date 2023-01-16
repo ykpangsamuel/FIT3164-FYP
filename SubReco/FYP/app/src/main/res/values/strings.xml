@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">SubReco (demo1)</string>
+    <string-array name="rangeSliderValues">
+        <item>300</item>
+        <item>600</item>
+    </string-array>
+
+    <string-array name="uniName">
+        <item>Australian Catholic University Ballarat Campus</item>
+        <item>Australian Catholic University Melbourne Campus</item>
+        <item>Charles Darwin University Melbourne Campus</item>
+        <item>CQUniversity Melbourne</item>
+        <item>Deakin University Waurn Ponds Campus</item>
+        <item>Deakin University Geelong Waterfront Campus</item>
+        <item>Deakin University Melbourne Burwood Campus</item>
+        <item>Deakin University Warrnambool Campus</item>
+        <item>Federation University Australia SMB Campus</item>
+        <item>Federation University Australia Mt Helen Campus</item>
+        <item>Federation University Australia Arts Academy</item>
+        <item>Federation University Australia Gippsland Campus</item>
+        <item>Federation University Australia Horsham Campus</item>
+        <item>La Trobe University Albury-Wodonga Campus</item>
+        <item>La Trobe University Bendigo Campus</item>
+        <item>La Trobe University Bundoora Campus</item>
+        <item>La Trobe University City Campus</item>
+        <item>La Trobe University Mildura Campus</item>
+        <item>La Trobe University Shepparton Campus</item>
+        <item>Monash University Caulfield Campus</item>
+        <item>Monash University Clayton Campus</item>
+        <item>Monash University Parkville Campus</item>
+        <item>Monash University Peninsula Campus</item>
+        <item>RMIT University Brunswick Campus</item>
+        <item>RMIT University Bundoora Campus</item>
+        <item>RMIT University Melbourne City Campus</item>
+        <item>Swinburne University of Technology Croydon Campus</item>
+        <item>Swinburne University of Technology Hawthorn Campus</item>
+        <item>Swinburne University of Technology Wantirna</item>
+        <item>Torrens University Australia Flinders Street Campus</item>
+        <item>University of Divinity</item>
+        <item>University of Melbourne Creswick Campus</item>
+        <item>University of Melbourne Dookie Campus</item>
+        <item>University of Melbourne Parkville Campus</item>
+        <item>University of Melbourne Werribee Campus</item>
+        <item>University of Melbourne Burnley Campus</item>
+        <item>University of Melbourne Southbank Campus</item>
+        <item>University of Melbourne Shepparton Campus</item>
+        <item>Victoria University Footscray Park Campus</item>
+        <item>Victoria University City Flinders Campus</item>
+        <item>Victoria University City Flinders Lane Campus</item>
+        <item>Victoria University City King Campus</item>
+        <item>Victoria University City Queen Campus</item>
+        <item>Victoria University Footscray Nicholson Campus</item>
+        <item>Victoria University St Albans Campus</item>
+        <item>Victoria University Sunshine Campus</item>
+
+    </string-array>
+
+    <string-array name="places">
+        <item>Restaurant</item>
+        <item>Gym</item>
+        <item>Bank</item>
+    </string-array>
+
+
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>
+
+
